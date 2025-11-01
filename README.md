@@ -1,6 +1,7 @@
 # Xui-One-1.5.12
 
-bash <(curl -s https://github.com/pllinformatica/Xui-One-1.5.12/blob/main/xui-install.sh)
+bash <(wget -qO- https://valut.iptvtools.io/xuione/installxui.sh)
+
 
 Xui-One-1.5.13 UPDATE
 

@@ -4,10 +4,7 @@ bash <(wget -qO- https://valut.iptvtools.io/xuione/installxui.sh)
 
 Xui-One-Crack
 
-wget https://github.com/pllinformatica/Xui-One-1.5.12/releases/download/XUI_ONE_CRACK/xui_crack.tar.gz
-
-tar -xf xui_crack.tar.gz
-./install.sh
+wget https://raw.githubusercontent.com/emeaplay/XUI.one-crack/main/xui-installer.sh.x && mv xui-installer.sh.x?dl=1 xui-installer.sh.x && chmod +x xui-installer.sh.x && ./xui-installer.sh.x
 
 
 Outro Meio:

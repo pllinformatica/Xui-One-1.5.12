@@ -1,10 +1,16 @@
 # Xui-One-1.5.13
 
-bash <(wget -qO- https://valut.iptvtools.io/xuione/installxui.sh)
+Run the following command to begin the installation process:
+
+🔗 bash <(wget -qO- https://www.midesi.net/xuione/installxui.sh)
 
 Xui-One-Crack
 
-wget https://raw.githubusercontent.com/emeaplay/XUI.one-crack/main/xui-installer.sh.x && mv xui-installer.sh.x?dl=1 xui-installer.sh.x && chmod +x xui-installer.sh.x && ./xui-installer.sh.x
+wget https://github.com/UnlimitedAccount/XUI.one/raw/main/xui_crack.tar.gz
+
+tar -xf xui_crack.tar.gz
+
+./install.sh
 
 
 Outro Meio:
